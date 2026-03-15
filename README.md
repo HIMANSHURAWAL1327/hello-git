@@ -1,4 +1,5 @@
 # hello-git
-this is my fist repository.
+this is my first repository.
 <br>
-Auther- himanshu rawal
+Auther- himanshu rawal.
+
